@@ -11,5 +11,3 @@ const findVowels = (str) => {
     }
     return message;
 };
-
-module.exports = findVowels;

@@ -84,6 +84,3 @@ const tickets=(people)=> {
   }
   return 'YES';
 };
-
-
-module.exports = {getSum, getQuantityPostsByAuthor, tickets};

@@ -81,16 +81,3 @@ const formatDate = date => {
   if (min < 10) min = '0' + min;
   return yy + '/' + mm + '/' + dd + ' ' + hh + ':' + min;
 };
-
-module.exports = {
-  convert,
-  executeforEach,
-  mapArray,
-  filterArray,
-  flipOver,
-  makeListFromRange,
-  getArrayOfKeys,
-  substitute,
-  getPastDay,
-  formatDate,
-};

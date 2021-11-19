@@ -76,5 +76,3 @@ const battle = function (fighter1, fighter2) {
     return 0;
   }
 };
-
-module.exports = { Fighter, battle};

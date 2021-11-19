@@ -8,5 +8,3 @@ const snakeArray = (snakeStart) => {
         [18, 17, 16, 15, 14, 13, 12],
     ].map(row => row.map(val => val + snakeStart - 1));
 };
-
-module.exports = snakeArray;

@@ -173,5 +173,3 @@ const sortedByPrice = () => {
       return priceB - priceA;
     });
 };
-
-module.exports = {sortedByRating, sortedByPrice, products};

@@ -9,5 +9,3 @@ const detectPalindrome = (str) => {
         return 'Passed argument is not a string';
     }
 };
-
-module.exports = detectPalindrome;

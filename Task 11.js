@@ -50,4 +50,4 @@ const mul = (...args) => {
 
 //=============================================
 
-module.exports = {cache, forwardBackwardSteps, applyAll, sum, mul}
+

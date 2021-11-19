@@ -25,9 +25,3 @@ const sum = (value1, value2) => {
   }
   return divided + +stringNumber;
 };
-
-
-module.exports = {
-  validateTitle,
-  sum,
-};

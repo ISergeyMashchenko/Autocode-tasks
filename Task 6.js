@@ -9,5 +9,3 @@ const textForRole = (roles, textLines) => {
     .join('\n')
     .trim();
 }
-
-module.exports = textForRole;

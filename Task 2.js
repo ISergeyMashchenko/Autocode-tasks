@@ -9,4 +9,3 @@ const fibonacciNumbers = (num) => {
         return 'Passed argument is not a number';
     }
 };
-module.exports = fibonacciNumbers;
